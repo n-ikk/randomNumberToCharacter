@@ -1,0 +1,3 @@
+﻿  Random_Nbrs.cpp
+c:\users\nicholas\source\repos\random_nbrs\random_nbrs\random_nbrs.cpp(35): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Random_Nbrs.vcxproj -> C:\Users\Nicholas\source\repos\Random_Nbrs\Debug\Random_Nbrs.exe
